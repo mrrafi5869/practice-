@@ -1,0 +1,83 @@
+/* header sectoin starts here */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+span{
+  color: orange;
+}
+.flexible {
+  display: flex;
+  margin-bottom: 30px;
+}
+.para {
+  margin-bottom: 50px;
+}
+.half-width {
+  width: 50%;
+  padding: 5%;
+}
+.half-width img {
+  width: 80%;
+}
+.link-button {
+  background-image: linear-gradient(orange, red);
+  padding: 10px;
+  border-radius: 100px;
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
+}
+
+/* header sectoin ends here */
+/* aboutMe sectoin starts here */
+
+.aboutme-section {
+  background-image: url(images/shapes/7.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* aboutMe sectoin ends here */
+/* my recipies starts herer */
+.recipies-txt{
+  text-align: center;
+  color: gray;
+  
+}
+.img-border{
+  box-shadow: 10px 10px 40px gray;
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 5%;
+  border-radius: 20px;
+}
+.half{
+  width: 50%;
+  padding: 5%;
+}
+.half img {
+  width: 100%;
+}
+/* my recipies ends herer */
+/* social media starts herer */
+.center{
+  margin-left: 670px;
+  box-shadow: 10px 10px 40px gray;
+  width:550px;
+  border-radius: 20px;
+}
+.saperate{
+  margin-left: 20px;
+  text-align: center;
+}
+
+/* social media ends herer */
+/* footer start herer */
+.footer{
+  background-color: black;
+  color: gray;
+}
+/* footer ends herer */
